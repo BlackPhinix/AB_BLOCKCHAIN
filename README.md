@@ -6,3 +6,6 @@ then list tasks, create tasks and complete tasks.
 these are the first stage of the project and next stages of the projects will be 
 announced in their time period
 any questions and suggestions are open!!
+
+
+Some security patches will be made in our json developed code 
