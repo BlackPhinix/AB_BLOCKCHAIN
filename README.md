@@ -8,4 +8,7 @@ announced in their time period
 any questions and suggestions are open!!
 
 
+Etherium smart contracts using the Solidity programming language. You will also learn to write tests, deploy to the blockchain, and create a client-side application.
+
+
 Some security patches will be made in our json developed code 
