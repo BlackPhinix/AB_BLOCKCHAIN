@@ -10,7 +10,7 @@ class Blockchain(object):
 
    def new_block(self):
 
-       #This function creates new blocks and then adds to the existing chain
+       #This function creates new blocks and then adds to the existing chain in which the chain is stored
 
        pass
 
