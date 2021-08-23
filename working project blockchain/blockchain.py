@@ -34,5 +34,5 @@ class Blockchain(object):
    def last_block(self):
 
        # Calls and returns the last block of the chain
-
+        #return blockchain
        pass
