@@ -14,3 +14,6 @@ Etherium smart contracts using the Solidity programming language. You will also 
 Some security patches will be made in our json developed code 
 
 attaching some json files has some deportable alerts so it will be fixed in a moment
+the client side crypto code will be available in the near future
+
+@BlackPhinix
